@@ -1,0 +1,4 @@
+interface:
+  display_name: "悬疑图片提示词优化"
+  short_description: "优化悬疑图片与连续分镜提示词，统一角色场景并控制线索、遮挡和反转节奏"
+  default_prompt: "请使用 $suspense-image-prompts 优化我提供的悬疑图片提示词，保留原故事和分镜顺序，输出可直接复制的完整版本。"
